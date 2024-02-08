@@ -1,0 +1,218 @@
+------ File: log-2024-1-30_05-30-08.563.txt ------
+[App 1372758463] 2024-1-30 05:30:08.563 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/temp
+[App 1372758463] 2024-1-30 05:30:08.563 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/.tempkey
+[App 1372758463] 2024-1-30 05:30:08.563 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/logs
+[Postbox] 2024-1-30 05:30:08.606 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.606 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.608 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.608 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.609 Did set up cipher
+[Postbox] 2024-1-30 05:30:08.609 isEncrypted prepare...
+[Postbox] 2024-1-30 05:30:08.609 Did set up cipher
+[Postbox] 2024-1-30 05:30:08.609 isEncrypted prepare...
+[Postbox] 2024-1-30 05:30:08.610 isEncrypted prepare done
+[Postbox] 2024-1-30 05:30:08.610 isEncrypted step done
+[Postbox] 2024-1-30 05:30:08.610 Did set up encryption
+[Postbox] 2024-1-30 05:30:08.610 isEncrypted prepare done
+[Postbox] 2024-1-30 05:30:08.610 isEncrypted step done
+[Postbox] 2024-1-30 05:30:08.610 Did set up encryption
+[Postbox] 2024-1-30 05:30:08.612 Did set up pragmas
+[Postbox] 2024-1-30 05:30:08.612 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 05:30:08.613 Did begin transaction
+[Postbox] 2024-1-30 05:30:08.613 Did load tables
+[Postbox] 2024-1-30 05:30:08.613 Did set up pragmas
+[Postbox] 2024-1-30 05:30:08.614 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 05:30:08.616 Did begin transaction
+[Postbox] 2024-1-30 05:30:08.617 Did load tables
+[Postbox] 2024-1-30 05:30:08.639 Did commit final
+[Postbox] 2024-1-30 05:30:08.639 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.657 Did commit final
+[Postbox] 2024-1-30 05:30:08.657 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.657 Did set up cipher
+[Postbox] 2024-1-30 05:30:08.657 isEncrypted prepare...
+[Postbox] 2024-1-30 05:30:08.657 isEncrypted prepare done
+[Postbox] 2024-1-30 05:30:08.657 isEncrypted step done
+[Postbox] 2024-1-30 05:30:08.657 Did set up encryption
+[Postbox] 2024-1-30 05:30:08.659 Did set up pragmas
+[Postbox] 2024-1-30 05:30:08.659 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 05:30:08.659 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.660 Did begin transaction
+[Postbox] 2024-1-30 05:30:08.660 Did load tables
+[Postbox] 2024-1-30 05:30:08.661 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 05:30:08.661 Did set up cipher
+[Postbox] 2024-1-30 05:30:08.661 isEncrypted prepare...
+[Postbox] 2024-1-30 05:30:08.661 isEncrypted prepare done
+[Postbox] 2024-1-30 05:30:08.661 isEncrypted step done
+[Postbox] 2024-1-30 05:30:08.661 Did set up encryption
+[Postbox] 2024-1-30 05:30:08.681 Did commit final
+[Postbox] 2024-1-30 05:30:08.682 Did set up pragmas
+[Postbox] 2024-1-30 05:30:08.682 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 05:30:08.684 Did begin transaction
+[Postbox] 2024-1-30 05:30:08.684 load atomic state error: Error Domain=NSCocoaErrorDomain Code=260 "ĐĐľ ŃĐ´Đ°ĐťĐžŃŃ ĐžŃĐşŃŃŃŃ ŃĐ°ĐšĐť ÂŤatomic-stateÂť, ŃĐ°Đş ĐşĐ°Đş ŃĐ°ĐşĐžĐłĐž ŃĐ°ĐšĐťĐ° Đ˝Đľ ŃŃŃĐľŃŃĐ˛ŃĐľŃ." UserInfo={NSFilePath=/private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/atomic-state, NSUnderlyingError=0x282a57060 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+[Postbox] 2024-1-30 05:30:08.684 Did load tables
+[Postbox] 2024-1-30 05:30:08.713 AccountManager: currentAccountId = nil
+[Postbox] 2024-1-30 05:30:08.713 Did commit final
+[Postbox] 2024-1-30 05:30:08.713 AccountManager initialization took 109.13503170013428 ms
+[App 1372758463] 2024-1-30 05:30:08.714 isInForeground = false
+[App 1372758463] 2024-1-30 05:30:08.714 isActive = false
+[App 1372758463] 2024-1-30 05:30:08.720 Executing low-impact cache reindex in foreground
+[App 1372758463] 2024-1-30 05:30:08.768 isInForeground = true
+[App 1372758463] 2024-1-30 05:30:08.768 isActive = true
+[Wakeup] 2024-1-30 05:30:08.865 enableBeginTransactions: true (active)
+[Wakeup] 2024-1-30 05:30:08.865 enableBeginTransactions: true (active)
+[App 2017653564] 2024-1-30 07:19:32.311 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/spotlight
+[App 2017653564] 2024-1-30 07:19:32.312 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/login-tokens
+[App 2017653564] 2024-1-30 07:19:32.312 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/atomic-state
+[App 2017653564] 2024-1-30 07:19:32.312 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db
+[App 2017653564] 2024-1-30 07:19:32.312 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db
+[App 2017653564] 2024-1-30 07:19:32.312 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media
+[App 2017653564] 2024-1-30 07:19:32.313 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489
+[App 2017653564] 2024-1-30 07:19:32.382 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/postbox
+[App 2017653564] 2024-1-30 07:19:32.382 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/network-stats
+[App 2017653564] 2024-1-30 07:19:32.382 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/notificationsKey
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/temp
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/notificationsPresentationData.json
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/widgetPresentationData.json
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/broadcast-coordination
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/.tempkey
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/logs
+[App 2017653564] 2024-1-30 07:19:32.382 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/lockState.json
+[Postbox] 2024-1-30 07:19:32.426 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.427 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.429 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.430 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.430 Did set up cipher
+[Postbox] 2024-1-30 07:19:32.430 isEncrypted prepare...
+[Postbox] 2024-1-30 07:19:32.430 Did set up cipher
+[Postbox] 2024-1-30 07:19:32.431 isEncrypted prepare...
+[Postbox] 2024-1-30 07:19:32.434 isEncrypted prepare done
+[Postbox] 2024-1-30 07:19:32.434 isEncrypted step done
+[Postbox] 2024-1-30 07:19:32.434 Did set up encryption
+[Postbox] 2024-1-30 07:19:32.434 Did set up pragmas
+[Postbox] 2024-1-30 07:19:32.435 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 07:19:32.435 Did begin transaction
+[Postbox] 2024-1-30 07:19:32.434 isEncrypted prepare done
+[Postbox] 2024-1-30 07:19:32.435 isEncrypted step done
+[Postbox] 2024-1-30 07:19:32.435 Did set up encryption
+[Postbox] 2024-1-30 07:19:32.435 Did set up pragmas
+[Postbox] 2024-1-30 07:19:32.435 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 07:19:32.435 Did begin transaction
+[Postbox] 2024-1-30 07:19:32.435 Did load tables
+[Postbox] 2024-1-30 07:19:32.435 Did commit final
+[Postbox] 2024-1-30 07:19:32.435 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.436 Did load tables
+[Postbox] 2024-1-30 07:19:32.436 Did commit final
+[Postbox] 2024-1-30 07:19:32.436 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.436 Did set up cipher
+[Postbox] 2024-1-30 07:19:32.436 isEncrypted prepare...
+[Postbox] 2024-1-30 07:19:32.437 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.437 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 07:19:32.437 Did set up cipher
+[Postbox] 2024-1-30 07:19:32.437 isEncrypted prepare...
+[Postbox] 2024-1-30 07:19:32.439 isEncrypted prepare done
+[Postbox] 2024-1-30 07:19:32.439 isEncrypted step done
+[Postbox] 2024-1-30 07:19:32.439 Did set up encryption
+[Postbox] 2024-1-30 07:19:32.439 Did set up pragmas
+[Postbox] 2024-1-30 07:19:32.439 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 07:19:32.439 Did begin transaction
+[Postbox] 2024-1-30 07:19:32.439 Did load tables
+[Postbox] 2024-1-30 07:19:32.439 Did commit final
+[Postbox] 2024-1-30 07:19:32.440 isEncrypted prepare done
+[Postbox] 2024-1-30 07:19:32.440 isEncrypted step done
+[Postbox] 2024-1-30 07:19:32.440 Did set up encryption
+[Postbox] 2024-1-30 07:19:32.440 Did set up pragmas
+[Postbox] 2024-1-30 07:19:32.440 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 07:19:32.440 Did begin transaction
+[Postbox] 2024-1-30 07:19:32.440 Did load tables
+[Postbox] 2024-1-30 07:19:32.440 Did commit final
+[Postbox] 2024-1-30 07:19:32.443 AccountManager: currentAccountId = Optional(TelegramCore.AccountRecordId(rawValue: -8546445914032399127))
+[Postbox] 2024-1-30 07:19:32.444 AccountManager initialization took 18.640995025634766 ms
+[App 2017653564] 2024-1-30 07:19:32.446 isInForeground = false
+[App 2017653564] 2024-1-30 07:19:32.446 isActive = false
+[App 2017653564] 2024-1-30 07:19:32.506 pushRegistry credentials: {length = 32, bytes = 0x20ee3331 af1c8ceb 245cc47f 97d10f57 ... 70c8a524 864275e9 }
+[Wakeup] 2024-1-30 07:19:32.666 enableBeginTransactions: false
+[Wakeup] 2024-1-30 07:19:32.667 enableBeginTransactions: false
+[App 2017653564] 2024-1-30 07:19:32.669 Executing cleanup task
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/spotlight
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/login-tokens
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/atomic-state
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db
+[App 1441822049] 2024-1-30 15:41:50.521 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media
+[App 1441822049] 2024-1-30 15:41:50.522 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489
+[App 1441822049] 2024-1-30 15:41:50.566 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/postbox
+[App 1441822049] 2024-1-30 15:41:50.566 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/network-stats
+[App 1441822049] 2024-1-30 15:41:50.566 account account-9900298159677152489: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/account-9900298159677152489/notificationsKey
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/temp
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/notificationsPresentationData.json
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/widgetPresentationData.json
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/broadcast-coordination
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/.tempkey
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/logs
+[App 1441822049] 2024-1-30 15:41:50.566 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/lockState.json
+[Postbox] 2024-1-30 15:41:50.616 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.617 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.621 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/storage/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.621 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.622 Did set up cipher
+[Postbox] 2024-1-30 15:41:50.622 Did set up cipher
+[Postbox] 2024-1-30 15:41:50.623 isEncrypted prepare...
+[Postbox] 2024-1-30 15:41:50.623 isEncrypted prepare...
+[Postbox] 2024-1-30 15:41:50.625 isEncrypted prepare done
+[Postbox] 2024-1-30 15:41:50.625 isEncrypted step done
+[Postbox] 2024-1-30 15:41:50.625 Did set up encryption
+[Postbox] 2024-1-30 15:41:50.625 isEncrypted prepare done
+[Postbox] 2024-1-30 15:41:50.625 isEncrypted step done
+[Postbox] 2024-1-30 15:41:50.625 Did set up encryption
+[Postbox] 2024-1-30 15:41:50.626 Did set up pragmas
+[Postbox] 2024-1-30 15:41:50.626 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 15:41:50.626 Did begin transaction
+[Postbox] 2024-1-30 15:41:50.626 Did set up pragmas
+[Postbox] 2024-1-30 15:41:50.626 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 15:41:50.626 Did begin transaction
+[Postbox] 2024-1-30 15:41:50.627 Did load tables
+[Postbox] 2024-1-30 15:41:50.627 Did commit final
+[Postbox] 2024-1-30 15:41:50.627 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.627 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.627 Did set up cipher
+[Postbox] 2024-1-30 15:41:50.627 isEncrypted prepare...
+[Postbox] 2024-1-30 15:41:50.628 isEncrypted prepare done
+[Postbox] 2024-1-30 15:41:50.628 isEncrypted step done
+[Postbox] 2024-1-30 15:41:50.628 Did set up encryption
+[Postbox] 2024-1-30 15:41:50.628 Did set up pragmas
+[Postbox] 2024-1-30 15:41:50.628 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 15:41:50.628 Did begin transaction
+[Postbox] 2024-1-30 15:41:50.631 Did load tables
+[Postbox] 2024-1-30 15:41:50.631 Did load tables
+[Postbox] 2024-1-30 15:41:50.631 Did commit final
+[Postbox] 2024-1-30 15:41:50.631 Did commit final
+[Postbox] 2024-1-30 15:41:50.634 Instance Postbox.SqliteValueBox opening sqlite at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.634 Did open DB at /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media/cache-storage/db/db_sqlite
+[Postbox] 2024-1-30 15:41:50.634 Did set up cipher
+[Postbox] 2024-1-30 15:41:50.634 isEncrypted prepare...
+[Postbox] 2024-1-30 15:41:50.635 isEncrypted prepare done
+[Postbox] 2024-1-30 15:41:50.635 isEncrypted step done
+[Postbox] 2024-1-30 15:41:50.635 Did set up encryption
+[Postbox] 2024-1-30 15:41:50.635 Did set up pragmas
+[Postbox] 2024-1-30 15:41:50.635 Did set up checkpoint_fullfsync
+[Postbox] 2024-1-30 15:41:50.635 Did begin transaction
+[Postbox] 2024-1-30 15:41:50.635 AccountManager: currentAccountId = Optional(TelegramCore.AccountRecordId(rawValue: -8546445914032399127))
+[Postbox] 2024-1-30 15:41:50.635 Did load tables
+[Postbox] 2024-1-30 15:41:50.635 Did commit final
+[Postbox] 2024-1-30 15:41:50.636 AccountManager initialization took 24.253010749816895 ms
+[App 1441822049] 2024-1-30 15:41:50.638 isInForeground = false
+[App 1441822049] 2024-1-30 15:41:50.638 isActive = false
+[App 1441822049] 2024-1-30 15:41:50.681 isInForeground = true
+[App 1441822049] 2024-1-30 15:41:50.681 isActive = true
+[App 1441822049] 2024-1-30 15:41:50.695 pushRegistry credentials: {length = 32, bytes = 0x20ee3331 af1c8ceb 245cc47f 97d10f57 ... 70c8a524 864275e9 }
+[Wakeup] 2024-1-30 15:41:50.838 enableBeginTransactions: true (active)
+[Wakeup] 2024-1-30 15:41:50.838 enableBeginTransactions: true (active)
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/spotlight
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/login-tokens
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/atomic-state
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/guard_db
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/db
+[App 1067653126] 2024-1-30 16:23:15.676 metadata: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/accounts-metadata/media
+[App 1067653126] 2024-1-30 16:23:15.677 root: /private/var/mobile/Containers/Shared/AppGroup/81A66F52-B8C3-438A-B58D-B3E4C77B0F26/telegram-data/
